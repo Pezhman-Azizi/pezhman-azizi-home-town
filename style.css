@@ -245,9 +245,6 @@ body{
   .card {
     margin-bottom: 1.5rem; /* Add margin to the bottom */
     margin: 0 auto;
-
-  }
-  .card-1 .card-2 .card-3{
     margin-top: 4rem;
   }
 
